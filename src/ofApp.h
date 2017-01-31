@@ -10,6 +10,7 @@ class ofApp : public ofBaseApp{
 		void draw();
 
     int xpos;
+    int ypos;
     int steps;
 		
 };
